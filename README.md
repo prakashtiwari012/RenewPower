@@ -1,2 +1,2 @@
 # RenewPower
-Usecase
+Usecase : crredit card default for case study from renew power
